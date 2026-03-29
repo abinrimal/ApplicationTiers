@@ -14,7 +14,6 @@ public class SAXParserExample {
             // Create a SAXParserFactory and SAXParser instance
             SAXParserFactory factory = SAXParserFactory.newInstance();
             SAXParser saxParser = factory.newSAXParser();
-
             // Define the handler
             DefaultHandler handler = new DefaultHandler() {
 

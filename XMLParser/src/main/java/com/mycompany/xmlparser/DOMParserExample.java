@@ -16,6 +16,8 @@ public class DOMParserExample {
             // Load and parse the XML document
             File inputFile = new File("bookstore.xml");
             DocumentBuilderFactory dbFactory = DocumentBuilderFactory.newInstance();
+            dbFactory.setValidating(true); //Validate Document Structure with XML Schema Grammer
+
             DocumentBuilder dBuilder = dbFactory.newDocumentBuilder();
             Document doc = dBuilder.parse(inputFile);
             doc.getDocumentElement().normalize();
