@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bookstore xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="book.xsd">
+  <book category="IT">
+    <title>Enterprise Systems Integration</title>
+    <author>M. Myerson</author>
+    <year>2001</year>
+    <price>86.40</price>
+  </book>
+  <book category="IT ">
+    <title>e-Business: Organizational and Technical Foundations</title>
+    <author> Michael P. Papazoglou and Pieter M. A. Ribbers</author>
+    <year>2014</year>
+    <price>57.95</price>
+  </book>
+</bookstore>
