@@ -1,0 +1,5 @@
+com/mycompany/twotierapp/resources/JakartaEE10Resource.class
+com/mycompany/twotierapp/JakartaRestConfiguration.class
+Client.class
+CustomerService.class
+AddCustomerServlet.class
