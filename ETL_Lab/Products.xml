@@ -1,0 +1,17 @@
+<Products>
+    <Product>
+        <ProductID>1</ProductID>
+        <ProductName>Laptop</ProductName>
+        <Price>1200.50</Price>
+    </Product>
+    <Product>
+        <ProductID>2</ProductID>
+        <ProductName>Smartphone</ProductName>
+        <Price>800.00</Price>
+    </Product>
+    <Product>
+        <ProductID>3</ProductID>
+        <ProductName>Tablet</ProductName>
+        <Price>450.75</Price>
+    </Product>
+</Products>

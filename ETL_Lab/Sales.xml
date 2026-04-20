@@ -1,0 +1,23 @@
+<Sales>
+    <Sale>
+        <SaleID>1</SaleID>
+        <CustomerID>1</CustomerID>
+        <ProductID>2</ProductID>
+        <Quantity>3</Quantity>
+        <Date>2024-01-10</Date>
+    </Sale>
+    <Sale>
+        <SaleID>2</SaleID>
+        <CustomerID>2</CustomerID>
+        <ProductID>1</ProductID>
+        <Quantity>1</Quantity>
+        <Date>2024-01-11</Date>
+    </Sale>
+    <Sale>
+        <SaleID>3</SaleID>
+        <CustomerID>3</CustomerID>
+        <ProductID>3</ProductID>
+        <Quantity>2</Quantity>
+        <Date>2024-01-12</Date>
+    </Sale>
+</Sales>

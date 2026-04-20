@@ -1,0 +1,17 @@
+<Customers>
+    <Customer>
+        <CustomerID>1</CustomerID>
+        <CustomerName>John Doe</CustomerName>
+        <Country>USA</Country>
+    </Customer>
+    <Customer>
+        <CustomerID>2</CustomerID>
+        <CustomerName>Jane Smith</CustomerName>
+        <Country>Australia</Country>
+    </Customer>
+    <Customer>
+        <CustomerID>3</CustomerID>
+        <CustomerName>Michael Johnson</CustomerName>
+        <Country>Canada</Country>
+    </Customer>
+</Customers> 
